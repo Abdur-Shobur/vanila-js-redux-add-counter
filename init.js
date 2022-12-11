@@ -1,0 +1,5 @@
+const count = document.getElementById('count')
+const wrap_div = document.getElementById('wrap_div')
+const add_new = document.getElementById('add_new')
+const reset = document.getElementById('reset')
+const total_count = document.getElementById('total_count')
